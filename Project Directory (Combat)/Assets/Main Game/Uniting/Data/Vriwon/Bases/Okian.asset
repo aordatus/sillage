@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441ae283ba7bd954583c1568835f0348, type: 3}
+  m_Name: Okian
+  m_EditorClassIdentifier: 
+  name: Okian
+  fullName: Lord Okian
+  ancestry: Feglan
+  gender: Male
+  origin: Yokyrel, Bnae 52
+  born: 3860
+  positionPrefix: 'Negotiator '
+  position: 0
+  hairColor: Black
+  eyeColor: Crimson
+  occupation: Aegis Officer
+  affiliations: Echelon
+  description: "With a will as strong as Tungsten and the strength of an ox, he is
+    dependable and can be someone\u2019s rock. With a difficult past but the fortitude
+    to get through it, he is a natural-born warrior, with experience from the battlefield."
+  cardImage: {fileID: 21300000, guid: be3aaa64eef25a04784e21cf8e35bdc4, type: 3}
+  iconImage: {fileID: 21300000, guid: 0abcf9a0fb9311a49b7bf451c58b799a, type: 3}
+  modeType: 1
+  maxStage: 13
+  initialMight: 5
+  initialDexterity: 12
+  initialCharm: 9
+  initialInitiation: 2
+  learnableAbility:
+  - abilityName: Yorna
+    aBase: {fileID: 11400000, guid: 5558fe2598a559a4c83031d3fb94d21a, type: 2}
+    stage: 7
+  - abilityName: 'Rulth '
+    aBase: {fileID: 11400000, guid: 07aab52990aafb341a4a4dc20bfd0722, type: 2}
+    stage: 7
+  - abilityName: Okian's Bell
+    aBase: {fileID: 11400000, guid: 849fb918963dd3541916c01999e98dd5, type: 2}
+    stage: 8
+  - abilityName: Hammer Smash
+    aBase: {fileID: 11400000, guid: 6b5b11a6ba0aae5428a9906992ec2268, type: 2}
+    stage: 6
+  movementType: 6
+  movementRange: 1

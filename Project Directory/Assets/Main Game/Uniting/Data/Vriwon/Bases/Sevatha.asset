@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441ae283ba7bd954583c1568835f0348, type: 3}
+  m_Name: Sevatha
+  m_EditorClassIdentifier: 
+  name: Sevatha
+  fullName: Sevatha Jerice
+  ancestry: 
+  gender: 
+  origin: 
+  born: 0
+  positionPrefix: 
+  position: 0
+  hairColor: 
+  eyeColor: 
+  occupation: 
+  affiliations: 
+  description: 
+  cardImage: {fileID: 21300000, guid: 00ff7918d6a1cf24f8a460072cc41bd5, type: 3}
+  iconImage: {fileID: 21300000, guid: b6c12c34173444f46828c15c9f2d20b5, type: 3}
+  modeType: 1
+  maxStage: 8
+  initialMight: 8
+  initialDexterity: 10
+  initialCharm: 6
+  learnableAbility:
+  - abilityName: Falchion
+    aBase: {fileID: 11400000, guid: 8a647b7897b7ceb41aa96c15bacf059c, type: 2}
+    stage: 5
+  - abilityName: Light Armor
+    aBase: {fileID: 11400000, guid: 646e3027d719bb94dab26bb254a9d5ad, type: 2}
+    stage: 5
+  - abilityName: Royal Blood
+    aBase: {fileID: 11400000, guid: 19bd811e0e601b741b78445870fb3e46, type: 2}
+    stage: 1
+  movementType: 4
+  movementRange: 1

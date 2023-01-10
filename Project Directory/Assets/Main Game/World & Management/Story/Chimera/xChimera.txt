@@ -1,0 +1,190 @@
+﻿[a1]
+Lord Okian knew his days were numbered. Or that’s what he thought he knew. Nobody could really be sure of anything after having spent enough time with Lord Sengorn. Of course, over 20 years under his thumb was more than enough to make today significant. It wasn’t lost on him that the war, now having gone on for almost 19 years, was the only reason he could go back to Thea. He was grateful that Vriwon was with him as well.
+
+As the sounds of battle continued, Okian turned to look at his sister, who was ruffling her feathers out of discomfort at having to stay perched on the seat in the carriage. “We’re almost there”, he said, trying to comfort her. “It’ll probably be easier for you to just stretch your wings.”
+
+Game Instruction - Move Okian's carriage forward to go on with the story.
+
+[a2]
+As a Kerlon, Vriwon was peculiar even among all the general fantastic lives of the many ancestries in Bnaepsea. She was born as a raven, and would mature into being a woman as she grew older and more powerful. Absurdly, he remembered how, when he was 7, his tutors had taught him about the ancestries, “Each one of the fantastical souls in this world belong to an ancestry, Lord.” They went on to explain, “One can tell of another ancestry based on their outward appearance and, sometimes, how they affect the world around them.” They had gone on to tell him about Kerlons and the many other forms of ancestries in the world, as he listened, rapt with attention. Vriwon was supposed to be one of the most powerful Kerlon born in recent years. He still remembered his father’s words as he sent them off to Thea, “Make sure that Warmaster cares well for her.” No words of care for Okian.
+
+[a3]
+Thea, though being an individual warlord, was a powerful leader. When his father, and Thea’s husband, Lord Sengorn, caused a rift between the Supreme Echelon and the Horizon, sparking the war that had no end in sight so far, she agreed to fight alongside him. Five days ago, out of nowhere, Sengorn told all his children to head to her stronghold. Over the last few days, almost all of them had reached her keep. Okian and Vriwon were to be the last ones to arrive.
+
+[a4]
+As they neared the battlements, Okian reflected on his plan. It was opportune for him that Sengorn needed him to go to Thea as his emissary. What he didn’t know was that Okian was sick of being around him. The cruel Lord and Okian had no love lost between them, nor was Okian in a hurry to let Vriwon remain in his grasp. He knew all too well just how overbearing Sengorn could be. With his control over fear and ability to steal powers, everyone was rightfully afraid of the man. But that was just his public persona. Okian and, he suspected, his siblings had all learnt firsthand that the lone wolf from the Echelon was worse in private. A 100 years spent away from him wouldn’t be able to heal the scars.
+
+[a5]
+As the carriage reached the castle gates and slowed to a stop, Okian turned to Vriwon. “Look, I’m going to carry you in my coat,” he said, hoping to let her escape notice until later. Vriwon squawked in reply and he took it as a yes. Before he put her in, though, she flapped her wings agitatedly and indicated that there was something on the path nearby. He turned and looked to the left, where indeed, a path led away.
+
+Game Instruction - You may turn onto this path for a side activity, or move forward towards the castle.
+
+[ab1]
+In jubilation, he reached down and picked up the ring that he found on the ground. It had an inscription on it, and it read: ‘Ring Of Protection’. He reverently held it up, “Vriwon, we’re in luck.”
+
+[ac1]
+Game Instruction - You may turn to the right for a side activity, or continue onwards to the castle.
+
+[ad1]
+He heard some moaning coming from accross the path and he found an injured soldier lying on the ground. He rushed forward to help, but the man said, "I don't need your help. I want to die with honour." Okian saw that the man wouldn't budge. He took out a waterskin and passe dit to the man, "There's no shame in drinking a little water before dying." So saying, he went ahead.
+
+[a6]
+As he approached the gates to enter, the guards blocked his path. “What business do you have with our Lady of the Field, Warmaster Thea?” It bode well with Okian that the guards were this careful. Clearly, deciding to escape Sengorn by seeking refuge with his guardian was an excellent decision.
+
+“My name is Lord Okian, Sengorn’s son and Warmaster Thea’s ward. I am here to bring tidings from my father, and perhaps break bread with her tonight,” he said. The guards visibly relaxed. “We were expecting you yesterday, Lord. Please head on in,” they said.
+
+[a7]
+As he was stepping in, he heard one of them call, “Sir, I hope your sword is as keen as your gaze.” He turned to inquire after this bizarre proclamation, but the gates had already closed. Shrugging, he continued on.
+
+[b1]
+As he walked past the tapestries and the many war trophies, he marvelled at how powerful Thea really was. Since she had first taken up arms for the Echelon, she had been akin to a demon in her ferocity and her ability to win. Her ability was so great, in fact, that despite his incessant narcissism, Sengorn acknowledged her ability and was jealous of her pure talent.
+
+[b2]
+It was his instincts that saved him. Serving on the front lines for a better part of 5 years, he recognised the rasp of a blade being drawn from a well-oiled sheath. In another moment, he had drawn his war hammer and blocked the slash from his assailant’s falchion. “Think fast,” exclaimed a voice. Okian was shocked to see that a woman wearing the livery of Thea’s personal guard held the blade.
+
+“I’m Lord Okian, here reporting for Lord Sengorn,” he implored, as he pushed back on the sword. “I recognise you, my Lord,” the woman said. “We have orders to fight the children of Sengorn as they make their way to our Lady of the Field. It’s a test of your abilities, as prescribed by Mistress Thea.”
+
+Okian started at the blatant disregard for Sengorn’s position. Putting that aside for the moment, he focused on the battle at hand.
+
+[b3]
+Seeing the woman lying unconscious at his feet, Okian resigned himself to the terrible task he knew he had to undertake. As he reached into his coat for the stiletto he kept sheathed there, Vriwon flew out and pecked at his hand. “I have to kill her,” he said, drawing the blade. She continued pecking at him until, annoyed; he pushed her away. “I can’t let her be punished by Thea for losing the fight!”
+
+“Do not worry about the fate of this soldier, Lord,” he heard a voice. 
+
+Game Instruction - Turn to the right to investigate the voice.
+
+[ba1]
+He turned back and went down the corridor there. 
+
+[ba2]
+As he reached a dead end, he saw another soldier there. “Why, was she already destined to be killed?” he asked the stranger. “Nay, it was Mistress Thea’s hope that she would lose, for that means you are worthy of being here,” the man said, tipping his head. Mollified, Okian sheathed his sword and confirmed that Vriwon was hidden behind his bulk. “Does that mean I can see my guardian now?” he deadpanned. With a chuckle, the man nodded. “My name is Sernade, and I’m here to escort you to the inner keep.”
+
+[b4]
+Okain knew that he might have to fight again. He was confident in his abilities, but needed to know where his enemies would come from. He turned to Serenade and said, "Perhaps you could also tell me where soldiers lie in wait to attack me." So saying, he drew out his money pouch and flashed it at Serenade. Slyly, Serenade said, "Of course, it'll be my pleasure." Their hands briefly touched, and a small weight vanished from Okian's.
+
+[b5]
+"My Lord, you are injured," said Serenade. Okian looked down at his wounds and agreed. "I shall take you to a first aid area."
+Game Instruction - Head diagonally to the right and below to replenish your health and magic.
+
+[b6]
+"Here, my Lord," Serenade explained. "You may apply salve to your wounds here."
+Game Instruction - Red blocks help you recover your HP, and Blue ones replenish magical power.
+
+[b7]
+"I shall open this door for us, Lord," Serenade said, as they reached a locked hallway.
+Game Instruction - Okian cannot move diagonally. Switch to Serenade in your Party to move ahead.
+
+[b8]
+They reached a part of the corridor where two hallways intersected. "Which way, Serenade?" Okian asked. "The paths to our left and right lead to two warriors who you may wish to fight, if you wish to test your strength," Serenade replied. "Otherwise, you may move forward to reach the Throne Room."
+
+[b9]
+It had been a short while since he'd been on the front lines, so Okian asked Serenade, "How is the situation on the front lines like?" The man took a moment to gather his thoughts and said, "Well, sir, we're holding on to our position. Mistress Thea is not on the field right now, but I have been fighting as recently as yesterday."
+
+[b10]
+As they reached another fork, Serenade pointed to the left and said, "Yet another soldier lies in wait there." Okian was perplexed. "If I've already proven myself, then why?" Serenade responded with a smile, "The three from here and the warrior you first fought are from the same squad. They wished to fight you together. Irrespective, let's move, either to fight, or to go to the throne room."
+
+[b11]
+"My Lord, this is the final doorway," Serenade said. "Past here is the antechamber before the throne room." He opened the door and moved ahead into the chamber.
+
+[b12]
+"The path that goes below leads to the throne room," said Serenade. "The doorway here is used by visiting nobles to enter the throne room directly. If your father comes to the castle, it'll be from here." Okian thanked Serenade for the information, "Thank you, Serenade, I'll take your leave now." He bid farewell and moved ahead.
+
+[c1]
+As he entered, the first thing he noticed were all of his half siblings. Between Thea and Sengorn, their family had many tens of children, of whom Okian was the eldest.
+
+[c2]
+The throne room was spartan in nature. The columns were made with mortar, but solidly made. They were constructed in an ionic design and were draped in velvet.
+
+[c3]
+He saw the walls and noticed that unlike outside, there were no tapestries here. Instead, Thea's war trophies from her biggest battles were mounted there. Okian couldn't help but notice that more than half of these were relics from the Horizon, a product of the war on right then.
+
+[c4]
+He noticed his siblings huddled in groups around the room. Knowing that it'd be considered an insult to spend too long there without greeting Thea, he moved to reach the Throne.
+
+[c5]
+Among everyone in the room, despite the many ancestries being flaunted, one presence overwhelmed his senses. His guardian, Warmaster Thea, the Lady of the Field, sat astride her throne and looked down upon all the children. Okian knelt before her and waited for her benediction. “Rise, Okian,” she said in her smooth, husky voice. “Warmaster, I stand before you as an emissary of Lord Sengorn,” he said. Noting her nod, he continued, “My Lord requests your continued aid in the fight against the Horizon. I personally also wish to seek protection for myself and my sister, Vriwon.” He drew her out, and she flapped her wings in salute.
+
+“I knew the day would come when you would come with such a request, Okian, and it saddens me,” Thea said, a touch coldly. “Vriwon will have my full protection.” Then she added, having realised her oversight, “And you, of course.” Okian bit his lip, but then he bowed in thanks.
+
+[c6]
+The Warmaster rose from her throne and amidst the hubbub of the many children; she drew up close to where Vriwon was perched. “You are certainly not old enough to mature yet, are you, my dear?”
+
+Saying that, she bent down and seemed to whisper something to Vriwon. Okian looked on as Vriwon flapped down to the ground and cocked her head to the side. Thea’s words rang true. Kerlons could attain their human form only after having matured. Vriwon was barely 2, almost 8 years away from her transformation. Even then, it would take her months of practice to be able to change at will. He looked around to see his siblings and went over to greet some of them. There stood Gimli, with whom he had trained in sword fighting. Dayleea sat with her sibling, Breenthvak. While she had been out blasting training dummies with gusts of wind, they had been learning to be stealthy. All of his brothers, sisters and siblings had spent their formative years learning to fight, spy and be worthy heirs. He was about to go greet the twins, but then he heard a gasp. He turned around and saw that Vriwon had gotten bigger. Before his eyes, the impossible happened. Vriwon had achieved human form.
+
+[c7]
+He stepped forward, hesitatingly, not believing his eyes. “She-. But-.” He stuttered, but no explanation was forthcoming. Vriwon lay on her side, curled up in the foetal position, with Thea looking at her with a wintry smile on her face. Not knowing what else to do, Okian ripped off his coat and covered his little sister’s bare body with it. He picked her up, but then a guard ran in. “My Lady,” he said, panting. “Lord Sengorn and his personal force approaches.”
+
+Thea’s eyes darkened a shade, and she exuded an aura of hostility. “Okian.” He stepped forward. “Go and greet your father, and bring him in here.” Meeting her steely gaze, he tried to find an inkling of warmth in her amber eyes, but all he saw was dark indifference.
+
+[c8]
+He quickly headed toward the doors to the antechamber, noticing that Gimli and the other children had gotten as fearful as he was.
+
+A deep sense of hatred bloomed in him when he thought of his father, but he controlled it, and moved on.
+
+[b13]
+As he closed the Throne Room doors behind him, he worried for Vriwon. Sengorn stole his childrens' powers without a care in the world and he was worried that Sengorn would want to have his way with her.
+
+He knew that Sengorn didn't care about the age of someone if he wanted his bed warmed.
+
+[b14]
+He reached the gate and opened it. He noticed that the walls in the corridor here were covered in decorations, just to make it inviting. Yet throughout, he could see Thea's flare, with the decorations comprising of equal numbers of weapons as frivolous beauty pieces.
+
+[b15]
+He looked outside and saw Sengorn's carriage. As the man stepped out, the thoughts and nightmares of that night in Sengorn's bedchambers began plaguing him again. It had taken him days to recover emotionally, but when he did, he spent every idle hour training. Sengorn may have drained his powers and his ability to wield everything short of a butter knife, but his fighting sense remained.
+It took his body 4 years to catch up to his mind, and another 2 years to begin to approach his skill from before. Okian strove hard and through sheer will and brawn, regained his fighting ability.
+
+Yet, now, despite knowing that Thea would protect him and Vriwon, something came over him. He turned tail and ran towards the Throne Room.
+
+[b16]
+He looked behind from the threshold of the antechamber and saw that Sengorn had noticed him. His face cracked into a smile and he started chasing after Okian.
+
+[b17]
+Serenade had been waiting outside the throne room doors and turned quizzically toward Okian. Not knowing how to respond, Okian just shook his head and continued running until he reached the doors. He stopped, composed himself and looked behind. Sengorn was still behind him so he entered the room.
+
+[c6]
+Soon, the door opened again and the sharp figure of Lord Sengorn made itself known. Okian shied away, even then.
+
+“Thea,” he called, swaggering into the throne room, as if he owned the place. “I’d have expected a welcoming committee, but I don’t suppose you can spare the soldiers.”
+
+“And why would that be, husband dearest?” asked Thea, with her words laced with enough venom to take down a god.
+
+“Well, if you would have had the men,” he smirked. “You would’ve reinforced my legion that the Horizon wiped out a week ago. Or maybe the one from 6 days ago?”
+
+Okian had known this was a part of the reason Sengorn had told them to go to Thea. By pressurising her in front of the children, he hoped to corner her and get a big bolster in his forces. “I thought it prudent to make you beg, dearest.” Thea never took nonsense from others. Not even Sengorn. Especially not Sengorn.
+
+He knew it too, and his grin spread. But behind the smiling face, he saw the anger in his father’s eyes. Thea knew it too, and Okian saw the joy she felt by making Sengorn squirm. “When this war started, you pledged to fight with us,” Sengorn thundered. All Thea said was, “I did, and I am, but not at my full strength.”
+
+With a vein popping in his head, Sengorn asked, “And pray tell how I can convince you to bring your entire force to the front?” He didn’t want to accept that they were going to lose ground without Thea.
+
+Okian saw the mood of the room take a turn for the worst when Thea said, “Donesn’t your high-class blood win you your battles?” Sengorn had had his fill. He drew his broadsword and shouted a challenge, “Come down you mongrel wench, and I’ll show you your common blood.”
+
+From afar, Thea barely moved, or so it seemed. So fast as to be unseen, she had thrown a knife that stuck on the chest plate of Sengorn’s armour. Red in the face, he blindly ran forward. Thea was forced to draw her rapier and parry the slash that would’ve cut her torso open. Sengorn’s skill was unmistakable, when, even blind with anger, he still nimbly delivered brutal slashes in Thea’s direction.
+
+But Thea proved to be better, much better than Sengorn. Sengorn was considered agile for his age, but Thea, hundreds of years his junior, was practically a wound rope, with the speed at which she moved around, dodging and nicking away at Sengorn. He did everything in his power to undermine this disadvantage. But despite his best efforts, the victor remained unchanged. The duel barely lasted a minute, but the sheer ferocity of the combatants left Okian’s hackles raised. Gooseflesh ran up his body as he saw Thea’s sword levelled at Sengorn’s sternum. Gimli and Serenade couldn't take their eyes off of Sengorn's cheek, which had a deep gash which was bleeding profusely. Dayleea was radiant as she smiled, seeing her step father humiliated. Even Breenthvak, master of espionage, couldn't keep their awe from being visible on their face, as they stood slack jawed.
+All around the room, the children were either in shock, or smiling at Thea's victory. Her right hand man, Voshthalion, then entered from a side door, apparently having ridden hard to reach the keep that day from the midst of battle. He gleaned what had happened from the children's faces and the drawn swords, and simply wiped the blood off from his breastplate. “You will not kill another one of my soldiers in your pointless war,” she whispered.
+
+“You will stay away from my keep and will leave all the children alone. If I see you or your grubby bunch anywhere near them, I will cleave them up.” Somehow, Okian knew what was going to happen. He saw it all as if it was happening in slow motion.
+
+Thea’s sword fell and she began to turn away. Sengorn snarled and spread his arms wide. He let loose every ember of fear he had in his arsenal. An almost palpable wave of absolute terror hit Okian and stopped just as abruptly. Thea stepped forward and enveloped the fear around herself as she absorbed it, protecting Vriwon and the others from the brunt of the attack.
+
+When Sengorn finally let go of his power, everyone was disoriented, and Thea was still immobile.
+
+“I will be back, and I’ll make you pay,” swore Sengorn as he caught two of the more powerful children by the scruffs of their necks. Okian watched in dismay, straining to move, as Sengorn pushed the children forward and grabbed the still unconscious Vriwon. He let loose a guttural roar as Sengorn left through the door.
+
+When he could move, he ran out, but by the time he reached the gate, Sengorn’s carriage was nowhere to be seen. Distraught, he went back to the throne room, only to find out from Serenade that Thea had felt tired and, ignorant of the situation, had gone to her bedchambers to sleep.
+
+As Thea slept, she dreamt of the future. She saw brief flashes of her life to come, and in every flash, she felt the deepest depths of horror and fear she had ever experienced. She woke up the next day, sweaty and with her heart beating hard.
+
+She drank a deep draught of water from a jug nearby. Having dressed, she finally went back to the throne room to find out just what had happened after the duel. For some reason, she couldn’t remember anything except a burst of absolute and paralysing terror.
+
+“Lady Thea,” she heard Okian call from behind. She breathed a sigh of relief, knowing that Okian would explain everything to her. She turned to him but was barely able to register his look of pain before he burst out with the events of the previous day. Thea listened with growing horror, but kept a straight face throughout.
+
+When Okian finished, she said, “I will need a minute to compose myself, but please assemble all the children and my soldiers in the throne room.” Okian gave her a worried look but complied. She put her thoughts together and finally made her decision. She entered the throne room and sat on the throne, looking out at the children.
+
+In her own way, she cared for them deeply. It was true that she didn’t give them a feeling of warmth, but she made sure they had the best chances at life.
+
+She took a deep breath and said, “Children, the upstart Sengorn has taken 3 of you from our midst.” She saw Okian stiffen. Breenthvak steadied him, and Thea was glad for them. To everyone’s credit, they tried to maintain a brave face. "From today, I will rescind my support to Sengorn and his pointless war against the Horizon. The Echelon still has my backing, but not when Sengorn is involved." Now came the big part.
+
+“A lot of you,” she glanced at Okian for a moment, “came here to seek protection. You shall have it. My soldiers will be here to help you, and you yourself may continue training if you so wish. I, however, need to keep my commitment to your safety.”
+
+She looked at her most trusted aide, Voshthalion, and he nodded, understanding. “I will be heading out, and not be coming back until each one of you is back here. Until then, Voshthlion will care for you here.”

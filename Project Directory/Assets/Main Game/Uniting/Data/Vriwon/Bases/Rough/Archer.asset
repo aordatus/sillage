@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441ae283ba7bd954583c1568835f0348, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  name: Vriwon
+  fullName: Queen Vriwon
+  ancestry: Human
+  gender: Female
+  origin: Sod, Ryda
+  born: 4675
+  positionPrefix: Janar
+  position: 3
+  hairColor: Brown
+  eyeColor: Emerald Green
+  occupation: Jeweler Guild Master
+  affiliations: Ocraglade, Band of Hurthoy, Band of Mariftha
+  description: 
+  cardImage: {fileID: 21300000, guid: 9d7899da0c4408a47bf65f0163bd06c3, type: 3}
+  iconImage: {fileID: 21300000, guid: 7101aef843f948c4690741304496b876, type: 3}
+  modeType: 1
+  primaryType: 6
+  secondaryType: 0
+  initialMight: 18
+  initialDexterity: 18
+  initialCharm: 18
+  maxStage: 17
+  mightGrowth: 4
+  dexterityGrowth: 8
+  charmGrowth: 12
+  initialHP: 175
+  initialRegen: 8
+  initialErkaCap: 13
+  initialErkaMastery: 0
+  initialArmor: 0
+  initialSpeed: 100
+  initialDamageMin: 24
+  initialDamageMax: 26
+  learnableMoves:
+  - mBase: {fileID: 11400000, guid: 7cb01464fa7799e4baa0930df346de9b, type: 2}
+    stage: 1
+  - mBase: {fileID: 11400000, guid: 8895aaed7f14ffe4585c88b22f095735, type: 2}
+    stage: 1
+  movementType: 6
+  movementRange: 1

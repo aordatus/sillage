@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441ae283ba7bd954583c1568835f0348, type: 3}
+  m_Name: Zarriss
+  m_EditorClassIdentifier: 
+  name: 'Zarris '
+  fullName: Zarris Jerice
+  ancestry: 
+  gender: 
+  origin: 
+  born: 0
+  positionPrefix: 
+  position: 0
+  hairColor: 
+  eyeColor: 
+  occupation: 
+  affiliations: 
+  description: 
+  cardImage: {fileID: 21300000, guid: 9a67b4cf151414e4f9650013d73d44c3, type: 3}
+  iconImage: {fileID: 21300000, guid: c6150a113912d234abb9f006eac68beb, type: 3}
+  modeType: 0
+  maxStage: 0
+  initialMight: 0
+  initialDexterity: 0
+  initialCharm: 0
+  initialInitiation: 0
+  learnableAbility: []
+  movementType: 0
+  movementRange: 0
